@@ -5,7 +5,7 @@ const path = require('path');
 let links = [{
     id: 'link-0',
     url: 'www.howtographql.com',
-    description: 'Fullstack tutorial for GraphQL'
+    description: 'Fullstack  GraphQL'
   
 }]
 const resolvers = {

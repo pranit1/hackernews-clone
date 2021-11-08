@@ -1,1 +1,1 @@
-# hackernews-clone
+# Backend for hackernews-clone
